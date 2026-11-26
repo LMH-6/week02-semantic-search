@@ -161,3 +161,5 @@ streamlit run app.py
 - 尝试更高质量的文本嵌入模型。
 - 引入向量数据库。
 - 探索检索增强生成（RAG）流程。
+
+This project supports both semantic search and keyword search.
